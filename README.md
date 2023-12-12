@@ -36,12 +36,14 @@ For a detailed description of the design patterns used and the project's archite
 
 ## Author
 
-This project was developed by [Leen Alashkar]. You can reach me via email: [leenalashkar123@gmail.com].
+This project was developed by Leen Alashkar. You can reach me via email: leenalashkar123@gmail.com.
 
 ## Team
 
 - Ahmad Mriwed, email: mr.ahmadmriwed@gmail.com
 - Leen Alashkar, email: leenalashkar123@gmail.com
+- Marymar Radwan, email:marymarradwan@gmail.com
+  
 ## License
 
 This project is open-source and available under the [MIT License](link-to-license).
